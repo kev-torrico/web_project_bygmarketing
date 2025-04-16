@@ -13,12 +13,14 @@ pip-selfcheck.json
 .idea/
 *.iml
 *.pyc
+.vscode/
+
 
 # Environment variables
 .env
 
 # Database
-friends.db
+
 
 # Compiled Python files
 *.pyc
